@@ -1,0 +1,6 @@
+
+TicketServer - main thread which will run all the time
+{
+    tickets info
+}
+TicketBooker init with ticketServer
